@@ -22,7 +22,7 @@
       </div>
     </div>
     {{ else }}
-    <a class="UnderlineNav-item {{ if $currentPage.IsMenuCurrent "main" . }}selected{{ end }}" href="{{ .URL }}">
+    <a class="UnderlineNav-item {{ if $currentPage.IsMenuCurrent "main" . }}selected{{ end }}" href="{{ .URL }}" target="_blank">
       {{ .Pre }}
       <span>{{ .Name }}</span>
     </a>
