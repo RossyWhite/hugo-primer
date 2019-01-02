@@ -1,5 +1,9 @@
 # Hugo-Primer
 
+**:warning: This repo is forked from [qqhann/hugo-primer](https://github.com/qqhann/hugo-primer) for my private use.**
+
+---
+
 **A simple and beautiful Hugo theme based on GitHub's Primer CSS** | **[日本語記事](https://qqhann.info/blog/theer-stroy/)**
 
 This theme would be a perfect fit if you are used to GitHub style pages.  
